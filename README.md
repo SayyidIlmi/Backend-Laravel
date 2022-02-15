@@ -7,6 +7,7 @@ Untuk Pencarian data masih belum dapat dipahami.
 - informasi untuk developer selanjutnya : Memonitoring tabel guru dan murid, dan untuk menambahkan Wali kelas ditabel siswa cukup merelasikan id guru (id di page guru ) ke siswa.
 
 
-
-- Important !!!!
-- Kalian harus meng extract file 'Belajar-Laravel.zip' ke dalam file dalam file Belajar-Laravel 
+---------------------------------------------------------------------------------------------------------
+- Important !!!!                                                                                        |
+- Kalian harus meng extract file 'Belajar-Laravel.zip' ke dalam file dalam file Belajar-Laravel         |
+---------------------------------------------------------------------------------------------------------
