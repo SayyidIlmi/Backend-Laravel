@@ -9,7 +9,7 @@ Untuk Pencarian data masih belum dapat dipahami.
 --------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------
 - Important !!!!                                                                                        
-- Kalian harus meng extract file 'Belajar-Laravel.zip' ke dalam file dalam file Belajar-Laravel         
+- Kalian harus meng extract file 'Belajar-Laravel 1.zip' & 'Belajar-Laravel 2.zip' ke dalam file dalam file Belajar-Laravel         
 --------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------
 
