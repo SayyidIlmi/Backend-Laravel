@@ -5,3 +5,8 @@ Untuk Pencarian data masih belum dapat dipahami.
 - Desain Database = (https://drive.google.com/file/d/1bQtShMt45Hl-ax00FTSRLFDGfTqx2PiQ/view?usp=sharing)
 - Screenshoot =(https://drive.google.com/file/d/1UeoUrlRQREJKgqgzM0gz2AEwOqWCKRVT/view?usp=sharing)
 - informasi untuk developer selanjutnya : Memonitoring tabel guru dan murid, dan untuk menambahkan Wali kelas ditabel siswa cukup merelasikan id guru (id di page guru ) ke siswa.
+
+
+
+- Important !!!!
+- Kalian harus meng extract file 'Belajar-Laravel.zip' ke dalam file dalam file Belajar-Laravel 
