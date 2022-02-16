@@ -1,6 +1,6 @@
-# Backend-Laravel
+# Mohon maaf untuk API dokumentasi, API Tabel, dan API pencarian data belum dikerjakan dikarenakan kurangnya pemahaman.
 
-# Mohon maaf untuk API dokumentasi, API Tabel, dan API pencarian data belum dikerjakan dikarenakan kurangnya pemahaman 
+# Backend-Laravel
 
 - Di project ini terdapat 2 tabel CRUD (Tabel Guru & tabel Murid) dan Login page sayangnya tidak bisa Membuat API. Di tabel CRUD Guru menampilkan data(Id, Nip, Nama Guru, dan Matapelajaran), sedangkan di tabel Murid Terdapat join left dari tabel guru untuk menampilkan guru yang menjadi walikelasnya, untuk tampilan tabel murid(Nisn, Nama Murid, Id guru(Wali kelas)).
 Untuk Pencarian data masih belum dapat dipahami.
